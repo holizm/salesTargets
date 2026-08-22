@@ -1,0 +1,35 @@
+salesTargetMetric options
+    revenue
+    quantity
+    margin
+    orders
+    newCustomers
+salesTarget
+    title
+    salesTargetMetric
+    startDate
+    endDate
+    targetValue realNumber
+    currency optional
+    item optional
+    state
+    description optional
+salesTargetAssignment
+    salesTarget
+    assignee
+    targetValue realNumber
+    unique salesTarget assignee
+salesAchievement
+    salesTargetAssignment
+    achievementDate
+    achievedValue realNumber
+    order optional
+    customer optional
+    description optional
+salesTargetSnapshot
+    salesTargetAssignment
+    snapshotDate
+    targetValue realNumber
+    achievedValue realNumber
+    attainmentPercentage realNumber
+    unique salesTargetAssignment snapshotDate
