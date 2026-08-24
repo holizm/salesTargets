@@ -1,5 +1,4 @@
 {
-    "salesTargetsAchievedValue": "Achieved value",
     "salesTargetsAchievementDate": "Achievement date",
     "salesTargetsAchievements": "Sales achievements",
     "salesTargetsAssignee": "Assignee",
@@ -12,6 +11,5 @@
     "salesTargetsStartDate": "Start date",
     "salesTargetsState": "State",
     "salesTargetsTarget": "Sales target",
-    "salesTargetsTargets": "Sales targets",
-    "salesTargetsTargetValue": "Target value"
+    "salesTargetsTargets": "Sales targets"
 }

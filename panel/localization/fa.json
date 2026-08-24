@@ -1,5 +1,4 @@
 {
-    "salesTargetsAchievedValue": "مقدار محقق‌شده",
     "salesTargetsAchievementDate": "تاریخ تحقق",
     "salesTargetsAchievements": "عملکرد فروش",
     "salesTargetsAssignee": "مسئول",
@@ -12,6 +11,5 @@
     "salesTargetsStartDate": "تاریخ شروع",
     "salesTargetsState": "مرحله",
     "salesTargetsTarget": "هدف فروش",
-    "salesTargetsTargets": "اهداف فروش",
-    "salesTargetsTargetValue": "مقدار هدف"
+    "salesTargetsTargets": "اهداف فروش"
 }
