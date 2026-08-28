@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'trackChanges',
+        path: '/salesTargets',
         title: 'salesTargetsSalesTargets',
     },
 ]
