@@ -1,4 +1,25 @@
 {
-    "salesTargetsAchievedValue": "مقدار محقق‌شده",
-    "salesTargetsTargetValue": "مقدار هدف"
+    "common": {
+        "achievedValue": "مقدار محقق‌شده",
+        "targetValue": "مقدار هدف"
+    },
+    "api": {},
+    "panel": {
+        "achievementDate": "تاریخ تحقق",
+        "achievements": "عملکرد فروش",
+        "assignee": "مسئول",
+        "assignment": "تخصیص هدف",
+        "currency": "ارز",
+        "description": "توضیحات",
+        "endDate": "تاریخ پایان",
+        "metric": "معیار",
+        "salesTargets": "اهداف فروش",
+        "startDate": "تاریخ شروع",
+        "state": "مرحله",
+        "target": "هدف فروش",
+        "targets": "اهداف فروش"
+    },
+    "site": {
+        "attainment": "درصد تحقق"
+    }
 }

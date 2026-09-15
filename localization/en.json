@@ -1,4 +1,25 @@
 {
-    "salesTargetsAchievedValue": "Achieved value",
-    "salesTargetsTargetValue": "Target value"
+    "common": {
+        "achievedValue": "Achieved value",
+        "targetValue": "Target value"
+    },
+    "api": {},
+    "panel": {
+        "achievementDate": "Achievement date",
+        "achievements": "Sales achievements",
+        "assignee": "Assignee",
+        "assignment": "Target assignment",
+        "currency": "Currency",
+        "description": "Description",
+        "endDate": "End date",
+        "metric": "Metric",
+        "salesTargets": "Sales targets",
+        "startDate": "Start date",
+        "state": "State",
+        "target": "Sales target",
+        "targets": "Sales targets"
+    },
+    "site": {
+        "attainment": "Attainment"
+    }
 }
