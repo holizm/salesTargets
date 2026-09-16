@@ -5,12 +5,7 @@
         "salesTargets": "Sales targets",
         "achievementDate": "Achievement date",
         "achievements": "Sales achievements",
-        "currency": "Currency",
-        "description": "Description",
-        "endDate": "End date",
         "metric": "Metric",
-        "startDate": "Start date",
-        "state": "State",
         "target": "Sales target",
         "attainment": "Attainment"
     },

@@ -5,12 +5,7 @@
         "salesTargets": "اهداف فروش",
         "achievementDate": "تاریخ تحقق",
         "achievements": "عملکرد فروش",
-        "currency": "ارز",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "metric": "معیار",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله",
         "target": "هدف فروش",
         "attainment": "درصد تحقق"
     },
