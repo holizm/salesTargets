@@ -11,7 +11,7 @@ const headers = <>
     <th>salesTargetsStartDate</th>
     <th>salesTargetsEndDate</th>
     <th>salesTargetsTargetValue</th>
-    <th>salesTargetsState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
