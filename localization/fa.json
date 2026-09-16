@@ -6,8 +6,7 @@
         "achievementDate": "تاریخ تحقق",
         "achievements": "عملکرد فروش",
         "metric": "معیار",
-        "target": "هدف فروش",
-        "attainment": "درصد تحقق"
+        "target": "هدف فروش"
     },
     "panel": {
         "assignee": "مسئول",

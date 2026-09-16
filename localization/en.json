@@ -6,8 +6,7 @@
         "achievementDate": "Achievement date",
         "achievements": "Sales achievements",
         "metric": "Metric",
-        "target": "Sales target",
-        "attainment": "Attainment"
+        "target": "Sales target"
     },
     "panel": {
         "assignee": "Assignee",
