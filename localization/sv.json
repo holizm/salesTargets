@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Uppnått värde",
+        "targetValue": "Målvärde",
+        "salesTargets": "Försäljningsmål",
+        "achievementDate": "Uppnåelsedatum",
+        "achievements": "Försäljningsresultat",
+        "metric": "Mätvärde",
+        "target": "Försäljningsmål"
+    },
+    "panel": {
+        "assignee": "Tilldelad person",
+        "assignment": "Måltilldelning"
+    }
+}

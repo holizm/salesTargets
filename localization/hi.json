@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "प्राप्त मान",
+        "targetValue": "लक्ष्य मान",
+        "salesTargets": "बिक्री लक्ष्य",
+        "achievementDate": "प्राप्ति की तारीख",
+        "achievements": "बिक्री उपलब्धियाँ",
+        "metric": "मापदंड",
+        "target": "बिक्री लक्ष्य"
+    },
+    "panel": {
+        "assignee": "नियुक्त व्यक्ति",
+        "assignment": "लक्ष्य आवंटन"
+    }
+}

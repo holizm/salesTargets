@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Giá trị đạt được",
+        "targetValue": "Giá trị mục tiêu",
+        "salesTargets": "Mục tiêu bán hàng",
+        "achievementDate": "Ngày đạt mục tiêu",
+        "achievements": "Thành tích bán hàng",
+        "metric": "Chỉ số",
+        "target": "Mục tiêu bán hàng"
+    },
+    "panel": {
+        "assignee": "Người được giao",
+        "assignment": "Phân công mục tiêu"
+    }
+}

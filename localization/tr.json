@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Gerçekleşen değer",
+        "targetValue": "Hedef değer",
+        "salesTargets": "Satış hedefleri",
+        "achievementDate": "Gerçekleşme tarihi",
+        "achievements": "Satış başarıları",
+        "metric": "Ölçüt",
+        "target": "Satış hedefi"
+    },
+    "panel": {
+        "assignee": "Atanan kişi",
+        "assignment": "Hedef ataması"
+    }
+}

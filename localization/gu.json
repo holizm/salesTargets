@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "પ્રાપ્ત મૂલ્ય",
+        "targetValue": "લક્ષ્ય મૂલ્ય",
+        "salesTargets": "વેચાણ લક્ષ્યો",
+        "achievementDate": "પ્રાપ્તિની તારીખ",
+        "achievements": "વેચાણ સિદ્ધિઓ",
+        "metric": "માપદંડ",
+        "target": "વેચાણ લક્ષ્ય"
+    },
+    "panel": {
+        "assignee": "સોંપાયેલ વ્યક્તિ",
+        "assignment": "લક્ષ્ય સોંપણી"
+    }
+}

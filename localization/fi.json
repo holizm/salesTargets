@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Saavutettu arvo",
+        "targetValue": "Tavoitearvo",
+        "salesTargets": "Myyntitavoitteet",
+        "achievementDate": "Saavuttamispäivä",
+        "achievements": "Myyntisaavutukset",
+        "metric": "Mittari",
+        "target": "Myyntitavoite"
+    },
+    "panel": {
+        "assignee": "Vastuuhenkilö",
+        "assignment": "Tavoitteen määritys"
+    }
+}

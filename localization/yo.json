@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Iye tí a ṣàṣeyọrí",
+        "targetValue": "Iye àfojúsùn",
+        "salesTargets": "Àwọn àfojúsùn títà",
+        "achievementDate": "Ọjọ́ àṣeyọrí",
+        "achievements": "Àwọn àṣeyọrí títà",
+        "metric": "Òṣùwọ̀n",
+        "target": "Àfojúsùn títà"
+    },
+    "panel": {
+        "assignee": "Ẹni tí a yàn",
+        "assignment": "Ìyàn àfojúsùn"
+    }
+}

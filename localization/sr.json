@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Остварена вредност",
+        "targetValue": "Циљна вредност",
+        "salesTargets": "Продајни циљеви",
+        "achievementDate": "Датум остварења",
+        "achievements": "Продајна остварења",
+        "metric": "Мерило",
+        "target": "Продајни циљ"
+    },
+    "panel": {
+        "assignee": "Додељена особа",
+        "assignment": "Додела циља"
+    }
+}

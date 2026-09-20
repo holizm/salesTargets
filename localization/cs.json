@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Dosažená hodnota",
+        "targetValue": "Cílová hodnota",
+        "salesTargets": "Prodejní cíle",
+        "achievementDate": "Datum dosažení",
+        "achievements": "Prodejní výsledky",
+        "metric": "Metrika",
+        "target": "Prodejní cíl"
+    },
+    "panel": {
+        "assignee": "Přiřazená osoba",
+        "assignment": "Přiřazení cíle"
+    }
+}

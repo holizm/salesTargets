@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "حاصل شدہ قدر",
+        "targetValue": "ہدفی قدر",
+        "salesTargets": "فروخت کے اہداف",
+        "achievementDate": "حصول کی تاریخ",
+        "achievements": "فروخت کی کامیابیاں",
+        "metric": "پیمانہ",
+        "target": "فروخت کا ہدف"
+    },
+    "panel": {
+        "assignee": "مقرر کردہ شخص",
+        "assignment": "ہدف کی تفویض"
+    }
+}

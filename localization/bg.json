@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Постигната стойност",
+        "targetValue": "Целева стойност",
+        "salesTargets": "Цели за продажби",
+        "achievementDate": "Дата на постигане",
+        "achievements": "Постижения в продажбите",
+        "metric": "Показател",
+        "target": "Цел за продажби"
+    },
+    "panel": {
+        "assignee": "Назначено лице",
+        "assignment": "Задаване на цел"
+    }
+}

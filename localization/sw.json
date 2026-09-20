@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Thamani iliyofikiwa",
+        "targetValue": "Thamani lengwa",
+        "salesTargets": "Malengo ya mauzo",
+        "achievementDate": "Tarehe ya kufikia",
+        "achievements": "Mafanikio ya mauzo",
+        "metric": "Kipimo",
+        "target": "Lengo la mauzo"
+    },
+    "panel": {
+        "assignee": "Mtu aliyekabidhiwa",
+        "assignment": "Ugawaji wa lengo"
+    }
+}

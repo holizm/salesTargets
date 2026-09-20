@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Osiągnięta wartość",
+        "targetValue": "Wartość docelowa",
+        "salesTargets": "Cele sprzedażowe",
+        "achievementDate": "Data osiągnięcia",
+        "achievements": "Osiągnięcia sprzedażowe",
+        "metric": "Wskaźnik",
+        "target": "Cel sprzedażowy"
+    },
+    "panel": {
+        "assignee": "Przypisana osoba",
+        "assignment": "Przypisanie celu"
+    }
+}

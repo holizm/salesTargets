@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Nakamit na halaga",
+        "targetValue": "Target na halaga",
+        "salesTargets": "Mga target sa benta",
+        "achievementDate": "Petsa ng pagkamit",
+        "achievements": "Mga nakamit sa benta",
+        "metric": "Sukatan",
+        "target": "Target sa benta"
+    },
+    "panel": {
+        "assignee": "Itinalagang tao",
+        "assignment": "Pagtatalaga ng target"
+    }
+}

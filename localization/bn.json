@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "অর্জিত মান",
+        "targetValue": "লক্ষ্যমাত্রা",
+        "salesTargets": "বিক্রয় লক্ষ্যমাত্রা",
+        "achievementDate": "অর্জনের তারিখ",
+        "achievements": "বিক্রয় অর্জনসমূহ",
+        "metric": "পরিমাপক",
+        "target": "বিক্রয় লক্ষ্য"
+    },
+    "panel": {
+        "assignee": "দায়িত্বপ্রাপ্ত ব্যক্তি",
+        "assignment": "লক্ষ্য বরাদ্দ"
+    }
+}

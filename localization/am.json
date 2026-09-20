@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "የተሳካ ዋጋ",
+        "targetValue": "የዒላማ ዋጋ",
+        "salesTargets": "የሽያጭ ዒላማዎች",
+        "achievementDate": "የስኬት ቀን",
+        "achievements": "የሽያጭ ስኬቶች",
+        "metric": "መለኪያ",
+        "target": "የሽያጭ ዒላማ"
+    },
+    "panel": {
+        "assignee": "የተመደበ ሰው",
+        "assignment": "የዒላማ ምደባ"
+    }
+}

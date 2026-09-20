@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "ရရှိပြီးတန်ဖိုး",
+        "targetValue": "ပစ်မှတ်တန်ဖိုး",
+        "salesTargets": "အရောင်းပစ်မှတ်များ",
+        "achievementDate": "ရရှိသည့်ရက်",
+        "achievements": "အရောင်းအောင်မြင်မှုများ",
+        "metric": "တိုင်းတာချက်",
+        "target": "အရောင်းပစ်မှတ်"
+    },
+    "panel": {
+        "assignee": "တာဝန်ပေးထားသူ",
+        "assignment": "ပစ်မှတ်တာဝန်ပေးခြင်း"
+    }
+}

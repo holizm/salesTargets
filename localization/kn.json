@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "ಸಾಧಿಸಿದ ಮೌಲ್ಯ",
+        "targetValue": "ಗುರಿ ಮೌಲ್ಯ",
+        "salesTargets": "ಮಾರಾಟ ಗುರಿಗಳು",
+        "achievementDate": "ಸಾಧಿಸಿದ ದಿನಾಂಕ",
+        "achievements": "ಮಾರಾಟ ಸಾಧನೆಗಳು",
+        "metric": "ಮಾಪಕ",
+        "target": "ಮಾರಾಟ ಗುರಿ"
+    },
+    "panel": {
+        "assignee": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ",
+        "assignment": "ಗುರಿ ನಿಯೋಜನೆ"
+    }
+}

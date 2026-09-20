@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "달성값",
+        "targetValue": "목표값",
+        "salesTargets": "판매 목표",
+        "achievementDate": "달성일",
+        "achievements": "판매 실적",
+        "metric": "측정 지표",
+        "target": "판매 목표"
+    },
+    "panel": {
+        "assignee": "담당자",
+        "assignment": "목표 배정"
+    }
+}

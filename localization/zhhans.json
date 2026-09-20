@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "已达成值",
+        "targetValue": "目标值",
+        "salesTargets": "销售目标",
+        "achievementDate": "达成日期",
+        "achievements": "销售业绩",
+        "metric": "指标",
+        "target": "销售目标"
+    },
+    "panel": {
+        "assignee": "负责人",
+        "assignment": "目标分配"
+    }
+}

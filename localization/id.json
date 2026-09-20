@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Nilai tercapai",
+        "targetValue": "Nilai target",
+        "salesTargets": "Target penjualan",
+        "achievementDate": "Tanggal pencapaian",
+        "achievements": "Pencapaian penjualan",
+        "metric": "Metrik",
+        "target": "Target penjualan"
+    },
+    "panel": {
+        "assignee": "Penerima tugas",
+        "assignment": "Penugasan target"
+    }
+}

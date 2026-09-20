@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "ค่าที่ทำได้",
+        "targetValue": "ค่าเป้าหมาย",
+        "salesTargets": "เป้าหมายการขาย",
+        "achievementDate": "วันที่บรรลุเป้าหมาย",
+        "achievements": "ผลงานการขาย",
+        "metric": "ตัวชี้วัด",
+        "target": "เป้าหมายการขาย"
+    },
+    "panel": {
+        "assignee": "ผู้รับผิดชอบ",
+        "assignment": "การมอบหมายเป้าหมาย"
+    }
+}

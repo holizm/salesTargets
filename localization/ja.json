@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "達成値",
+        "targetValue": "目標値",
+        "salesTargets": "販売目標",
+        "achievementDate": "達成日",
+        "achievements": "販売実績",
+        "metric": "指標",
+        "target": "販売目標"
+    },
+    "panel": {
+        "assignee": "担当者",
+        "assignment": "目標の割り当て"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Behaalde waarde",
+        "targetValue": "Teikenwaarde",
+        "salesTargets": "Verkoopteikens",
+        "achievementDate": "Behalingsdatum",
+        "achievements": "Verkoopprestasies",
+        "metric": "Maatstaf",
+        "target": "Verkoopteiken"
+    },
+    "panel": {
+        "assignee": "Toegewysde persoon",
+        "assignment": "Teikentoewysing"
+    }
+}

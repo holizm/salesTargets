@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "ערך שהושג",
+        "targetValue": "ערך יעד",
+        "salesTargets": "יעדי מכירות",
+        "achievementDate": "תאריך השגה",
+        "achievements": "הישגי מכירות",
+        "metric": "מדד",
+        "target": "יעד מכירות"
+    },
+    "panel": {
+        "assignee": "אחראי",
+        "assignment": "הקצאת יעד"
+    }
+}

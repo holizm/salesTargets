@@ -1,0 +1,15 @@
+{
+    "common": {
+        "achievedValue": "Valoare realizată",
+        "targetValue": "Valoare țintă",
+        "salesTargets": "Obiective de vânzări",
+        "achievementDate": "Data realizării",
+        "achievements": "Realizări în vânzări",
+        "metric": "Indicator",
+        "target": "Obiectiv de vânzări"
+    },
+    "panel": {
+        "assignee": "Persoană desemnată",
+        "assignment": "Alocarea obiectivului"
+    }
+}
