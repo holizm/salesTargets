@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "సాధించిన విలువ",
-        "targetValue": "లక్ష్య విలువ",
-        "salesTargets": "అమ్మకాల లక్ష్యాలు",
+        "achievement": "అమ్మకాల విజయాలు",
         "achievementDate": "సాధించిన తేదీ",
         "achievements": "అమ్మకాల విజయాలు",
+        "assignment": "లక్ష్య కేటాయింపు",
+        "assignments": "లక్ష్య కేటాయింపు",
         "metric": "కొలమానం",
-        "target": "అమ్మకాల లక్ష్యం"
+        "salesTargets": "అమ్మకాల లక్ష్యాలు",
+        "snapshot": "లక్ష్య స్నాప్‌షాట్",
+        "snapshots": "లక్ష్య స్నాప్‌షాట్‌లు",
+        "target": "అమ్మకాల లక్ష్యం",
+        "targetValue": "లక్ష్య విలువ"
     },
     "panel": {
-        "assignee": "కేటాయించిన వ్యక్తి",
-        "assignment": "లక్ష్య కేటాయింపు"
+        "assignee": "కేటాయించిన వ్యక్తి"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Valor alcançado",
-        "targetValue": "Valor da meta",
-        "salesTargets": "Metas de vendas",
+        "achievement": "Realizações de vendas",
         "achievementDate": "Data de alcance",
         "achievements": "Realizações de vendas",
+        "assignment": "Atribuição da meta",
+        "assignments": "Atribuição da meta",
         "metric": "Métrica",
-        "target": "Meta de vendas"
+        "salesTargets": "Metas de vendas",
+        "snapshot": "Instantâneo da meta",
+        "snapshots": "Instantâneos da meta",
+        "target": "Meta de vendas",
+        "targetValue": "Valor da meta"
     },
     "panel": {
-        "assignee": "Responsável",
-        "assignment": "Atribuição da meta"
+        "assignee": "Responsável"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "ਪ੍ਰਾਪਤ ਮੁੱਲ",
-        "targetValue": "ਟੀਚਾ ਮੁੱਲ",
-        "salesTargets": "ਵਿਕਰੀ ਟੀਚੇ",
+        "achievement": "ਵਿਕਰੀ ਪ੍ਰਾਪਤੀਆਂ",
         "achievementDate": "ਪ੍ਰਾਪਤੀ ਦੀ ਮਿਤੀ",
         "achievements": "ਵਿਕਰੀ ਪ੍ਰਾਪਤੀਆਂ",
+        "assignment": "ਟੀਚਾ ਨਿਯੁਕਤੀ",
+        "assignments": "ਟੀਚਾ ਨਿਯੁਕਤੀ",
         "metric": "ਮਾਪਦੰਡ",
-        "target": "ਵਿਕਰੀ ਟੀਚਾ"
+        "salesTargets": "ਵਿਕਰੀ ਟੀਚੇ",
+        "snapshot": "ਟੀਚਾ ਸਨੈਪਸ਼ਾਟ",
+        "snapshots": "ਟੀਚਾ ਸਨੈਪਸ਼ਾਟ",
+        "target": "ਵਿਕਰੀ ਟੀਚਾ",
+        "targetValue": "ਟੀਚਾ ਮੁੱਲ"
     },
     "panel": {
-        "assignee": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ",
-        "assignment": "ਟੀਚਾ ਨਿਯੁਕਤੀ"
+        "assignee": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ"
     }
 }

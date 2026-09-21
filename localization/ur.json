@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "حاصل شدہ قدر",
-        "targetValue": "ہدفی قدر",
-        "salesTargets": "فروخت کے اہداف",
+        "achievement": "فروخت کی کامیابیاں",
         "achievementDate": "حصول کی تاریخ",
         "achievements": "فروخت کی کامیابیاں",
+        "assignment": "ہدف کی تفویض",
+        "assignments": "ہدف کی تفویض",
         "metric": "پیمانہ",
-        "target": "فروخت کا ہدف"
+        "salesTargets": "فروخت کے اہداف",
+        "snapshot": "ہدف اسنیپ شاٹ",
+        "snapshots": "ہدف اسنیپ شاٹس",
+        "target": "فروخت کا ہدف",
+        "targetValue": "ہدفی قدر"
     },
     "panel": {
-        "assignee": "مقرر کردہ شخص",
-        "assignment": "ہدف کی تفویض"
+        "assignee": "مقرر کردہ شخص"
     }
 }

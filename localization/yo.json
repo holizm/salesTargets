@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Iye tí a ṣàṣeyọrí",
-        "targetValue": "Iye àfojúsùn",
-        "salesTargets": "Àwọn àfojúsùn títà",
+        "achievement": "Àwọn àṣeyọrí títà",
         "achievementDate": "Ọjọ́ àṣeyọrí",
         "achievements": "Àwọn àṣeyọrí títà",
+        "assignment": "Ìyàn àfojúsùn",
+        "assignments": "Ìyàn àfojúsùn",
         "metric": "Òṣùwọ̀n",
-        "target": "Àfojúsùn títà"
+        "salesTargets": "Àwọn àfojúsùn títà",
+        "snapshot": "Àwòrán ìfojúsùn",
+        "snapshots": "Àwọn àwòrán ìfojúsùn",
+        "target": "Àfojúsùn títà",
+        "targetValue": "Iye àfojúsùn"
     },
     "panel": {
-        "assignee": "Ẹni tí a yàn",
-        "assignment": "Ìyàn àfojúsùn"
+        "assignee": "Ẹni tí a yàn"
     }
 }

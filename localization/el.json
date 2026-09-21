@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Επιτευχθείσα τιμή",
-        "targetValue": "Τιμή στόχου",
-        "salesTargets": "Στόχοι πωλήσεων",
+        "achievement": "Επιτεύγματα πωλήσεων",
         "achievementDate": "Ημερομηνία επίτευξης",
         "achievements": "Επιτεύγματα πωλήσεων",
+        "assignment": "Ανάθεση στόχου",
+        "assignments": "Ανάθεση στόχου",
         "metric": "Δείκτης",
-        "target": "Στόχος πωλήσεων"
+        "salesTargets": "Στόχοι πωλήσεων",
+        "snapshot": "Στιγμιότυπο στόχου",
+        "snapshots": "Στιγμιότυπα στόχου",
+        "target": "Στόχος πωλήσεων",
+        "targetValue": "Τιμή στόχου"
     },
     "panel": {
-        "assignee": "Ανατεθειμένο άτομο",
-        "assignment": "Ανάθεση στόχου"
+        "assignee": "Ανατεθειμένο άτομο"
     }
 }

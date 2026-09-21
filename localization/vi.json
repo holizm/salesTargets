@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Giá trị đạt được",
-        "targetValue": "Giá trị mục tiêu",
-        "salesTargets": "Mục tiêu bán hàng",
+        "achievement": "Thành tích bán hàng",
         "achievementDate": "Ngày đạt mục tiêu",
         "achievements": "Thành tích bán hàng",
+        "assignment": "Phân công mục tiêu",
+        "assignments": "Phân công mục tiêu",
         "metric": "Chỉ số",
-        "target": "Mục tiêu bán hàng"
+        "salesTargets": "Mục tiêu bán hàng",
+        "snapshot": "Ảnh chụp mục tiêu",
+        "snapshots": "Các ảnh chụp mục tiêu",
+        "target": "Mục tiêu bán hàng",
+        "targetValue": "Giá trị mục tiêu"
     },
     "panel": {
-        "assignee": "Người được giao",
-        "assignment": "Phân công mục tiêu"
+        "assignee": "Người được giao"
     }
 }

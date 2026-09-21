@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "已達成值",
-        "targetValue": "目標值",
-        "salesTargets": "銷售目標",
+        "achievement": "銷售業績",
         "achievementDate": "達成日期",
         "achievements": "銷售業績",
+        "assignment": "目標分配",
+        "assignments": "目標分配",
         "metric": "指標",
-        "target": "銷售目標"
+        "salesTargets": "銷售目標",
+        "snapshot": "目標快照",
+        "snapshots": "目標快照",
+        "target": "銷售目標",
+        "targetValue": "目標值"
     },
     "panel": {
-        "assignee": "負責人",
-        "assignment": "目標分配"
+        "assignee": "負責人"
     }
 }

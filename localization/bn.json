@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "অর্জিত মান",
-        "targetValue": "লক্ষ্যমাত্রা",
-        "salesTargets": "বিক্রয় লক্ষ্যমাত্রা",
+        "achievement": "বিক্রয় অর্জনসমূহ",
         "achievementDate": "অর্জনের তারিখ",
         "achievements": "বিক্রয় অর্জনসমূহ",
+        "assignment": "লক্ষ্য বরাদ্দ",
+        "assignments": "লক্ষ্য বরাদ্দ",
         "metric": "পরিমাপক",
-        "target": "বিক্রয় লক্ষ্য"
+        "salesTargets": "বিক্রয় লক্ষ্যমাত্রা",
+        "snapshot": "লক্ষ্যের স্ন্যাপশট",
+        "snapshots": "লক্ষ্যের স্ন্যাপশটসমূহ",
+        "target": "বিক্রয় লক্ষ্য",
+        "targetValue": "লক্ষ্যমাত্রা"
     },
     "panel": {
-        "assignee": "দায়িত্বপ্রাপ্ত ব্যক্তি",
-        "assignment": "লক্ষ্য বরাদ্দ"
+        "assignee": "দায়িত্বপ্রাপ্ত ব্যক্তি"
     }
 }

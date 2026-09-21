@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "साध्य केलेले मूल्य",
-        "targetValue": "लक्ष्य मूल्य",
-        "salesTargets": "विक्री लक्ष्ये",
+        "achievement": "विक्री उपलब्धी",
         "achievementDate": "साध्य केल्याची तारीख",
         "achievements": "विक्री उपलब्धी",
+        "assignment": "लक्ष्य वाटप",
+        "assignments": "लक्ष्य वाटप",
         "metric": "मापनसूचक",
-        "target": "विक्री लक्ष्य"
+        "salesTargets": "विक्री लक्ष्ये",
+        "snapshot": "लक्ष्य स्नॅपशॉट",
+        "snapshots": "लक्ष्य स्नॅपशॉट",
+        "target": "विक्री लक्ष्य",
+        "targetValue": "लक्ष्य मूल्य"
     },
     "panel": {
-        "assignee": "नियुक्त व्यक्ती",
-        "assignment": "लक्ष्य वाटप"
+        "assignee": "नियुक्त व्यक्ती"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "அடைந்த மதிப்பு",
-        "targetValue": "இலக்கு மதிப்பு",
-        "salesTargets": "விற்பனை இலக்குகள்",
+        "achievement": "விற்பனை சாதனைகள்",
         "achievementDate": "அடைந்த தேதி",
         "achievements": "விற்பனை சாதனைகள்",
+        "assignment": "இலக்கு ஒதுக்கீடு",
+        "assignments": "இலக்கு ஒதுக்கீடு",
         "metric": "அளவீடு",
-        "target": "விற்பனை இலக்கு"
+        "salesTargets": "விற்பனை இலக்குகள்",
+        "snapshot": "இலக்கு நிலைப்படம்",
+        "snapshots": "இலக்கு நிலைப்படங்கள்",
+        "target": "விற்பனை இலக்கு",
+        "targetValue": "இலக்கு மதிப்பு"
     },
     "panel": {
-        "assignee": "ஒதுக்கப்பட்டவர்",
-        "assignment": "இலக்கு ஒதுக்கீடு"
+        "assignee": "ஒதுக்கப்பட்டவர்"
     }
 }

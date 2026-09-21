@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "ערך שהושג",
-        "targetValue": "ערך יעד",
-        "salesTargets": "יעדי מכירות",
+        "achievement": "הישגי מכירות",
         "achievementDate": "תאריך השגה",
         "achievements": "הישגי מכירות",
+        "assignment": "הקצאת יעד",
+        "assignments": "הקצאת יעד",
         "metric": "מדד",
-        "target": "יעד מכירות"
+        "salesTargets": "יעדי מכירות",
+        "snapshot": "תמונת מצב של היעד",
+        "snapshots": "תמונות מצב של היעד",
+        "target": "יעד מכירות",
+        "targetValue": "ערך יעד"
     },
     "panel": {
-        "assignee": "אחראי",
-        "assignment": "הקצאת יעד"
+        "assignee": "אחראי"
     }
 }

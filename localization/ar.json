@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "القيمة المحققة",
-        "targetValue": "القيمة المستهدفة",
-        "salesTargets": "أهداف المبيعات",
+        "achievement": "إنجازات المبيعات",
         "achievementDate": "تاريخ التحقيق",
         "achievements": "إنجازات المبيعات",
+        "assignment": "تعيين الهدف",
+        "assignments": "تعيين الهدف",
         "metric": "المقياس",
-        "target": "هدف المبيعات"
+        "salesTargets": "أهداف المبيعات",
+        "snapshot": "لقطة الهدف",
+        "snapshots": "لقطات الهدف",
+        "target": "هدف المبيعات",
+        "targetValue": "القيمة المستهدفة"
     },
     "panel": {
-        "assignee": "المكلّف",
-        "assignment": "تعيين الهدف"
+        "assignee": "المكلّف"
     }
 }

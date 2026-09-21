@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Ƙimar da aka cimma",
-        "targetValue": "Ƙimar buri",
-        "salesTargets": "Burin tallace-tallace",
+        "achievement": "Nasarorin tallace-tallace",
         "achievementDate": "Ranar cimma buri",
         "achievements": "Nasarorin tallace-tallace",
+        "assignment": "Sanya alhakin buri",
+        "assignments": "Sanya alhakin buri",
         "metric": "Ma'auni",
-        "target": "Burin tallace-tallace"
+        "salesTargets": "Burin tallace-tallace",
+        "snapshot": "Hoton manufa",
+        "snapshots": "Hotunan manufa",
+        "target": "Burin tallace-tallace",
+        "targetValue": "Ƙimar buri"
     },
     "panel": {
-        "assignee": "Wanda aka ɗora wa aiki",
-        "assignment": "Sanya alhakin buri"
+        "assignee": "Wanda aka ɗora wa aiki"
     }
 }

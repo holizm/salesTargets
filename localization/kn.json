@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "ಸಾಧಿಸಿದ ಮೌಲ್ಯ",
-        "targetValue": "ಗುರಿ ಮೌಲ್ಯ",
-        "salesTargets": "ಮಾರಾಟ ಗುರಿಗಳು",
+        "achievement": "ಮಾರಾಟ ಸಾಧನೆಗಳು",
         "achievementDate": "ಸಾಧಿಸಿದ ದಿನಾಂಕ",
         "achievements": "ಮಾರಾಟ ಸಾಧನೆಗಳು",
+        "assignment": "ಗುರಿ ನಿಯೋಜನೆ",
+        "assignments": "ಗುರಿ ನಿಯೋಜನೆ",
         "metric": "ಮಾಪಕ",
-        "target": "ಮಾರಾಟ ಗುರಿ"
+        "salesTargets": "ಮಾರಾಟ ಗುರಿಗಳು",
+        "snapshot": "ಗುರಿ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್",
+        "snapshots": "ಗುರಿ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್‌ಗಳು",
+        "target": "ಮಾರಾಟ ಗುರಿ",
+        "targetValue": "ಗುರಿ ಮೌಲ್ಯ"
     },
     "panel": {
-        "assignee": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ",
-        "assignment": "ಗುರಿ ನಿಯೋಜನೆ"
+        "assignee": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ"
     }
 }

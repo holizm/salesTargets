@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Valor alcanzado",
-        "targetValue": "Valor objetivo",
-        "salesTargets": "Objetivos de ventas",
+        "achievement": "Logros de ventas",
         "achievementDate": "Fecha de consecución",
         "achievements": "Logros de ventas",
+        "assignment": "Asignación del objetivo",
+        "assignments": "Asignación del objetivo",
         "metric": "Métrica",
-        "target": "Objetivo de ventas"
+        "salesTargets": "Objetivos de ventas",
+        "snapshot": "Instantánea del objetivo",
+        "snapshots": "Instantáneas del objetivo",
+        "target": "Objetivo de ventas",
+        "targetValue": "Valor objetivo"
     },
     "panel": {
-        "assignee": "Persona asignada",
-        "assignment": "Asignación del objetivo"
+        "assignee": "Persona asignada"
     }
 }

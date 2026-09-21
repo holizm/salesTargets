@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Elért érték",
-        "targetValue": "Célérték",
-        "salesTargets": "Értékesítési célok",
+        "achievement": "Értékesítési eredmények",
         "achievementDate": "Elérés dátuma",
         "achievements": "Értékesítési eredmények",
+        "assignment": "Cél hozzárendelése",
+        "assignments": "Cél hozzárendelése",
         "metric": "Mérőszám",
-        "target": "Értékesítési cél"
+        "salesTargets": "Értékesítési célok",
+        "snapshot": "Célpillanatkép",
+        "snapshots": "Célpillanatképek",
+        "target": "Értékesítési cél",
+        "targetValue": "Célérték"
     },
     "panel": {
-        "assignee": "Hozzárendelt személy",
-        "assignment": "Cél hozzárendelése"
+        "assignee": "Hozzárendelt személy"
     }
 }

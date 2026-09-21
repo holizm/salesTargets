@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "प्राप्त मान",
-        "targetValue": "लक्ष्य मान",
-        "salesTargets": "बिक्री लक्ष्य",
+        "achievement": "बिक्री उपलब्धियाँ",
         "achievementDate": "प्राप्ति की तारीख",
         "achievements": "बिक्री उपलब्धियाँ",
+        "assignment": "लक्ष्य आवंटन",
+        "assignments": "लक्ष्य आवंटन",
         "metric": "मापदंड",
-        "target": "बिक्री लक्ष्य"
+        "salesTargets": "बिक्री लक्ष्य",
+        "snapshot": "लक्ष्य स्नैपशॉट",
+        "snapshots": "लक्ष्य स्नैपशॉट",
+        "target": "बिक्री लक्ष्य",
+        "targetValue": "लक्ष्य मान"
     },
     "panel": {
-        "assignee": "नियुक्त व्यक्ति",
-        "assignment": "लक्ष्य आवंटन"
+        "assignee": "नियुक्त व्यक्ति"
     }
 }

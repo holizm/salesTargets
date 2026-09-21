@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Досягнуте значення",
-        "targetValue": "Цільове значення",
-        "salesTargets": "Цілі продажів",
+        "achievement": "Досягнення продажів",
         "achievementDate": "Дата досягнення",
         "achievements": "Досягнення продажів",
+        "assignment": "Призначення цілі",
+        "assignments": "Призначення цілі",
         "metric": "Показник",
-        "target": "Ціль продажів"
+        "salesTargets": "Цілі продажів",
+        "snapshot": "Знімок цілі",
+        "snapshots": "Знімки цілі",
+        "target": "Ціль продажів",
+        "targetValue": "Цільове значення"
     },
     "panel": {
-        "assignee": "Відповідальна особа",
-        "assignment": "Призначення цілі"
+        "assignee": "Відповідальна особа"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Erreichter Wert",
-        "targetValue": "Zielwert",
-        "salesTargets": "Verkaufsziele",
+        "achievement": "Verkaufserfolge",
         "achievementDate": "Erreichungsdatum",
         "achievements": "Verkaufserfolge",
+        "assignment": "Zielzuweisung",
+        "assignments": "Zielzuweisung",
         "metric": "Kennzahl",
-        "target": "Verkaufsziel"
+        "salesTargets": "Verkaufsziele",
+        "snapshot": "Zielmomentaufnahme",
+        "snapshots": "Zielmomentaufnahmen",
+        "target": "Verkaufsziel",
+        "targetValue": "Zielwert"
     },
     "panel": {
-        "assignee": "Zugewiesene Person",
-        "assignment": "Zielzuweisung"
+        "assignee": "Zugewiesene Person"
     }
 }

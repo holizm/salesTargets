@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Achieved value",
-        "targetValue": "Target value",
-        "salesTargets": "Sales targets",
+        "achievement": "Sales achievements",
         "achievementDate": "Achievement date",
         "achievements": "Sales achievements",
+        "assignment": "Target assignment",
+        "assignments": "Target assignment",
         "metric": "Metric",
-        "target": "Sales target"
+        "salesTargets": "Sales targets",
+        "snapshot": "Target snapshot",
+        "snapshots": "Target snapshots",
+        "target": "Sales target",
+        "targetValue": "Target value"
     },
     "panel": {
-        "assignee": "Assignee",
-        "assignment": "Target assignment"
+        "assignee": "Assignee"
     }
 }

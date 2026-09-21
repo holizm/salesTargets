@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "Behaalde waarde",
-        "targetValue": "Doelwaarde",
-        "salesTargets": "Verkoopdoelen",
+        "achievement": "Verkoopprestaties",
         "achievementDate": "Behaaldatum",
         "achievements": "Verkoopprestaties",
+        "assignment": "Doeltoewijzing",
+        "assignments": "Doeltoewijzing",
         "metric": "Meetwaarde",
-        "target": "Verkoopdoel"
+        "salesTargets": "Verkoopdoelen",
+        "snapshot": "Doelmomentopname",
+        "snapshots": "Doelmomentopnamen",
+        "target": "Verkoopdoel",
+        "targetValue": "Doelwaarde"
     },
     "panel": {
-        "assignee": "Toegewezen persoon",
-        "assignment": "Doeltoewijzing"
+        "assignee": "Toegewezen persoon"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "مقدار محقق‌شده",
-        "targetValue": "مقدار هدف",
-        "salesTargets": "اهداف فروش",
+        "achievement": "عملکرد فروش",
         "achievementDate": "تاریخ تحقق",
         "achievements": "عملکرد فروش",
+        "assignment": "تخصیص هدف",
+        "assignments": "تخصیص هدف",
         "metric": "معیار",
-        "target": "هدف فروش"
+        "salesTargets": "اهداف فروش",
+        "snapshot": "تصویر لحظه‌ای هدف",
+        "snapshots": "تصاویر لحظه‌ای هدف",
+        "target": "هدف فروش",
+        "targetValue": "مقدار هدف"
     },
     "panel": {
-        "assignee": "مسئول",
-        "assignment": "تخصیص هدف"
+        "assignee": "مسئول"
     }
 }

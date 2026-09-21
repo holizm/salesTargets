@@ -1,15 +1,19 @@
 {
     "common": {
         "achievedValue": "നേടിയ മൂല്യം",
-        "targetValue": "ലക്ഷ്യ മൂല്യം",
-        "salesTargets": "വിൽപ്പന ലക്ഷ്യങ്ങൾ",
+        "achievement": "വിൽപ്പന നേട്ടങ്ങൾ",
         "achievementDate": "നേട്ട തീയതി",
         "achievements": "വിൽപ്പന നേട്ടങ്ങൾ",
+        "assignment": "ലക്ഷ്യ ചുമതല",
+        "assignments": "ലക്ഷ്യ ചുമതല",
         "metric": "അളവുകോൽ",
-        "target": "വിൽപ്പന ലക്ഷ്യം"
+        "salesTargets": "വിൽപ്പന ലക്ഷ്യങ്ങൾ",
+        "snapshot": "ലക്ഷ്യ സ്നാപ്പ്ഷോട്ട്",
+        "snapshots": "ലക്ഷ്യ സ്നാപ്പ്ഷോട്ടുകൾ",
+        "target": "വിൽപ്പന ലക്ഷ്യം",
+        "targetValue": "ലക്ഷ്യ മൂല്യം"
     },
     "panel": {
-        "assignee": "ചുമതലപ്പെടുത്തിയ വ്യക്തി",
-        "assignment": "ലക്ഷ്യ ചുമതല"
+        "assignee": "ചുമതലപ്പെടുത്തിയ വ്യക്തി"
     }
 }
