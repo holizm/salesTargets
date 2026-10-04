@@ -9,23 +9,18 @@ import {
 const inputs = <>
     <Text
         placeholder='assignment'
-        property='salesTargetAssignment'
         required
+        salesTargetAssignment
     />
     <DateTime
-        placeholder='achievementDate'
-        property='achievementDate'
+        achievementDate
         required
     />
     <Numeric
-        placeholder='achievedValue'
-        property='achievedValue'
+        achievedValue
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

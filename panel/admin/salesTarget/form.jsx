@@ -19,32 +19,23 @@ const inputs = <>
             'newCustomers',
         ]}
         placeholder='metric'
-        property='salesTargetMetric'
         required
+        salesTargetMetric
     />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
     <DateTime
-        placeholder='endDate'
-        property='endDate'
+        endDate
         required
     />
     <Numeric
-        placeholder='targetValue'
-        property='targetValue'
         required
+        targetValue
     />
-    <Text
-        placeholder='currency'
-        property='currency'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <Text currency />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
