@@ -18,31 +18,31 @@ const inputs = <>
             'orders',
             'newCustomers',
         ]}
-        placeholder='salesTargetsMetric'
+        placeholder='metric'
         property='salesTargetMetric'
         required
     />
     <DateTime
-        placeholder='salesTargetsStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='salesTargetsEndDate'
+        placeholder='endDate'
         property='endDate'
         required
     />
     <Numeric
-        placeholder='salesTargetsTargetValue'
+        placeholder='targetValue'
         property='targetValue'
         required
     />
     <Text
-        placeholder='salesTargetsCurrency'
+        placeholder='currency'
         property='currency'
     />
     <LongText
-        placeholder='salesTargetsDescription'
+        placeholder='description'
         property='description'
     />
 </>

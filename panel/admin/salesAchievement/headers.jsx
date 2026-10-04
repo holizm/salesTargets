@@ -1,6 +1,6 @@
 export default <>
-    <th start>salesTargetsAssignee</th>
-    <th>salesTargetsAchievementDate</th>
-    <th>salesTargetsAchievedValue</th>
-    <th>salesTargetsTargetValue</th>
+    <th start>assignee</th>
+    <th>achievementDate</th>
+    <th>achievedValue</th>
+    <th>targetValue</th>
 </>

@@ -8,22 +8,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='salesTargetsAssignment'
+        placeholder='assignment'
         property='salesTargetAssignment'
         required
     />
     <DateTime
-        placeholder='salesTargetsAchievementDate'
+        placeholder='achievementDate'
         property='achievementDate'
         required
     />
     <Numeric
-        placeholder='salesTargetsAchievedValue'
+        placeholder='achievedValue'
         property='achievedValue'
         required
     />
     <LongText
-        placeholder='salesTargetsDescription'
+        placeholder='description'
         property='description'
     />
 </>

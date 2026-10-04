@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/salesTargets/salesTarget/list',
-                title: 'salesTargetsTargets',
+                title: 'targets',
             },
             {
                 path: '/salesTargets/salesAchievement/list',
-                title: 'salesTargetsAchievements',
+                title: 'achievements',
             },
         ],
         icon: 'trackChanges',
         path: '/salesTargets',
-        title: 'salesTargetsSalesTargets',
+        title: 'salesTargets',
     },
 ]

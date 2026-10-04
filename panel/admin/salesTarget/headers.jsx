@@ -1,8 +1,8 @@
 export default <>
-    <th start>salesTargetsTarget</th>
-    <th>salesTargetsMetric</th>
-    <th>salesTargetsStartDate</th>
-    <th>salesTargetsEndDate</th>
-    <th>salesTargetsTargetValue</th>
-    <th>stateMachinesState</th>
+    <th start>target</th>
+    <th>metric</th>
+    <th>startDate</th>
+    <th>endDate</th>
+    <th>targetValue</th>
+    <th>state</th>
 </>
