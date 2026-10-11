@@ -4,6 +4,7 @@
         "achievement": "વેચાણ સિદ્ધિ",
         "achievementDate": "પ્રાપ્તિની તારીખ",
         "achievements": "વેચાણ સિદ્ધિઓ",
+        "assignee": "સોંપાયેલ વ્યક્તિ",
         "assignment": "લક્ષ્ય સોંપણી",
         "assignments": "લક્ષ્ય સોંપણીઓ",
         "metric": "માપદંડ",
@@ -12,8 +13,5 @@
         "snapshots": "લક્ષ્ય સ્નેપશોટ્સ",
         "target": "વેચાણ લક્ષ્ય",
         "targetValue": "લક્ષ્ય મૂલ્ય"
-    },
-    "panel": {
-        "assignee": "સોંપાયેલ વ્યક્તિ"
     }
 }

@@ -4,6 +4,7 @@
         "achievement": "Realização de vendas",
         "achievementDate": "Data de alcance",
         "achievements": "Realizações de vendas",
+        "assignee": "Responsável",
         "assignment": "Atribuição da meta",
         "assignments": "Atribuições de metas",
         "metric": "Métrica",
@@ -12,8 +13,5 @@
         "snapshots": "Instantâneos da meta",
         "target": "Meta de vendas",
         "targetValue": "Valor da meta"
-    },
-    "panel": {
-        "assignee": "Responsável"
     }
 }

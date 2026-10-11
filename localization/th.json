@@ -4,6 +4,7 @@
         "achievement": "ผลงานการขาย",
         "achievementDate": "วันที่บรรลุเป้าหมาย",
         "achievements": "ผลงานการขาย",
+        "assignee": "ผู้รับผิดชอบ",
         "assignment": "การมอบหมายเป้าหมาย",
         "assignments": "การมอบหมายเป้าหมาย",
         "metric": "ตัวชี้วัด",
@@ -12,8 +13,5 @@
         "snapshots": "ภาพรวมเป้าหมาย",
         "target": "เป้าหมายการขาย",
         "targetValue": "ค่าเป้าหมาย"
-    },
-    "panel": {
-        "assignee": "ผู้รับผิดชอบ"
     }
 }

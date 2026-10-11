@@ -4,6 +4,7 @@
         "achievement": "Mafanikio ya mauzo",
         "achievementDate": "Tarehe ya kufikia",
         "achievements": "Mafanikio ya mauzo",
+        "assignee": "Mtu aliyekabidhiwa",
         "assignment": "Ugawaji wa lengo",
         "assignments": "Migawo ya malengo",
         "metric": "Kipimo",
@@ -12,8 +13,5 @@
         "snapshots": "Picha za lengo",
         "target": "Lengo la mauzo",
         "targetValue": "Thamani lengwa"
-    },
-    "panel": {
-        "assignee": "Mtu aliyekabidhiwa"
     }
 }

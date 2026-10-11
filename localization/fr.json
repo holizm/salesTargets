@@ -4,6 +4,7 @@
         "achievement": "Réalisation commerciale",
         "achievementDate": "Date de réalisation",
         "achievements": "Réalisations commerciales",
+        "assignee": "Personne assignée",
         "assignment": "Attribution de l’objectif",
         "assignments": "Attributions d’objectifs",
         "metric": "Indicateur",
@@ -12,8 +13,5 @@
         "snapshots": "Instantanés de l’objectif",
         "target": "Objectif de vente",
         "targetValue": "Valeur cible"
-    },
-    "panel": {
-        "assignee": "Personne assignée"
     }
 }

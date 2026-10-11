@@ -4,6 +4,7 @@
         "achievement": "Verkaufserfolg",
         "achievementDate": "Erreichungsdatum",
         "achievements": "Verkaufserfolge",
+        "assignee": "Zugewiesene Person",
         "assignment": "Zielzuweisung",
         "assignments": "Zielzuweisungen",
         "metric": "Kennzahl",
@@ -12,8 +13,5 @@
         "snapshots": "Zielmomentaufnahmen",
         "target": "Verkaufsziel",
         "targetValue": "Zielwert"
-    },
-    "panel": {
-        "assignee": "Zugewiesene Person"
     }
 }

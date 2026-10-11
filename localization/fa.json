@@ -4,6 +4,7 @@
         "achievement": "دستاورد فروش",
         "achievementDate": "تاریخ تحقق",
         "achievements": "دستاوردهای فروش",
+        "assignee": "مسئول",
         "assignment": "تخصیص هدف",
         "assignments": "تخصیص‌های هدف",
         "metric": "معیار",
@@ -12,8 +13,5 @@
         "snapshots": "تصاویر لحظه‌ای هدف",
         "target": "هدف فروش",
         "targetValue": "مقدار هدف"
-    },
-    "panel": {
-        "assignee": "مسئول"
     }
 }

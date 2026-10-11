@@ -4,6 +4,7 @@
         "achievement": "Myyntisaavutus",
         "achievementDate": "Saavuttamispäivä",
         "achievements": "Myyntisaavutukset",
+        "assignee": "Vastuuhenkilö",
         "assignment": "Tavoitteen määritys",
         "assignments": "Tavoitteiden määritykset",
         "metric": "Mittari",
@@ -12,8 +13,5 @@
         "snapshots": "Tavoitteen tilannekuvat",
         "target": "Myyntitavoite",
         "targetValue": "Tavoitearvo"
-    },
-    "panel": {
-        "assignee": "Vastuuhenkilö"
     }
 }

@@ -4,6 +4,7 @@
         "achievement": "Àṣeyọrí títà",
         "achievementDate": "Ọjọ́ àṣeyọrí",
         "achievements": "Àwọn àṣeyọrí títà",
+        "assignee": "Ẹni tí a yàn",
         "assignment": "Ìyàn àfojúsùn",
         "assignments": "Àwọn ìyàn àfojúsùn",
         "metric": "Òṣùwọ̀n",
@@ -12,8 +13,5 @@
         "snapshots": "Àwọn àwòrán ìfojúsùn",
         "target": "Àfojúsùn títà",
         "targetValue": "Iye àfojúsùn"
-    },
-    "panel": {
-        "assignee": "Ẹni tí a yàn"
     }
 }

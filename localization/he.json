@@ -4,6 +4,7 @@
         "achievement": "הישג מכירות",
         "achievementDate": "תאריך השגה",
         "achievements": "הישגי מכירות",
+        "assignee": "אחראי",
         "assignment": "הקצאת יעד",
         "assignments": "הקצאות יעדים",
         "metric": "מדד",
@@ -12,8 +13,5 @@
         "snapshots": "תמונות מצב של היעד",
         "target": "יעד מכירות",
         "targetValue": "ערך יעד"
-    },
-    "panel": {
-        "assignee": "אחראי"
     }
 }

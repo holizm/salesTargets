@@ -4,6 +4,7 @@
         "achievement": "Nakamit sa benta",
         "achievementDate": "Petsa ng pagkamit",
         "achievements": "Mga nakamit sa benta",
+        "assignee": "Itinalagang tao",
         "assignment": "Pagtatalaga ng target",
         "assignments": "Mga pagtatalaga ng mga target",
         "metric": "Sukatan",
@@ -12,8 +13,5 @@
         "snapshots": "Mga kasalukuyang tala ng target",
         "target": "Target sa benta",
         "targetValue": "Target na halaga"
-    },
-    "panel": {
-        "assignee": "Itinalagang tao"
     }
 }

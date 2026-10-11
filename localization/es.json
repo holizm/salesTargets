@@ -4,6 +4,7 @@
         "achievement": "Logro de ventas",
         "achievementDate": "Fecha de consecución",
         "achievements": "Logros de ventas",
+        "assignee": "Persona asignada",
         "assignment": "Asignación del objetivo",
         "assignments": "Asignaciones de objetivos",
         "metric": "Métrica",
@@ -12,8 +13,5 @@
         "snapshots": "Instantáneas del objetivo",
         "target": "Objetivo de ventas",
         "targetValue": "Valor objetivo"
-    },
-    "panel": {
-        "assignee": "Persona asignada"
     }
 }

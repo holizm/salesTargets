@@ -4,6 +4,7 @@
         "achievement": "Salgsresultat",
         "achievementDate": "Oppnåelsesdato",
         "achievements": "Salgsresultater",
+        "assignee": "Tildelt person",
         "assignment": "Måltildeling",
         "assignments": "Måltildelinger",
         "metric": "Måltall",
@@ -12,8 +13,5 @@
         "snapshots": "Måløyeblikksbilder",
         "target": "Salgsmål",
         "targetValue": "Målverdi"
-    },
-    "panel": {
-        "assignee": "Tildelt person"
     }
 }

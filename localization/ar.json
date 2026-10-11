@@ -4,6 +4,7 @@
         "achievement": "إنجاز مبيعات",
         "achievementDate": "تاريخ التحقيق",
         "achievements": "إنجازات المبيعات",
+        "assignee": "المكلّف",
         "assignment": "تعيين الهدف",
         "assignments": "تعيينات الأهداف",
         "metric": "المقياس",
@@ -12,8 +13,5 @@
         "snapshots": "لقطات الهدف",
         "target": "هدف المبيعات",
         "targetValue": "القيمة المستهدفة"
-    },
-    "panel": {
-        "assignee": "المكلّف"
     }
 }

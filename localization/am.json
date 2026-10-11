@@ -4,6 +4,7 @@
         "achievement": "የሽያጭ ስኬት",
         "achievementDate": "የስኬት ቀን",
         "achievements": "የሽያጭ ስኬቶች",
+        "assignee": "የተመደበ ሰው",
         "assignment": "የዒላማ ምደባ",
         "assignments": "የዒላማ ምደባዎች",
         "metric": "መለኪያ",
@@ -12,8 +13,5 @@
         "snapshots": "የዒላማ ሁኔታ ቅጽበታዊ ምስሎች",
         "target": "የሽያጭ ዒላማ",
         "targetValue": "የዒላማ ዋጋ"
-    },
-    "panel": {
-        "assignee": "የተመደበ ሰው"
     }
 }

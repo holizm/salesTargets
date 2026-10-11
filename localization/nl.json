@@ -4,6 +4,7 @@
         "achievement": "Verkoopprestatie",
         "achievementDate": "Behaaldatum",
         "achievements": "Verkoopprestaties",
+        "assignee": "Toegewezen persoon",
         "assignment": "Doeltoewijzing",
         "assignments": "Doeltoewijzingen",
         "metric": "Maatstaf",
@@ -12,8 +13,5 @@
         "snapshots": "Doelmomentopnamen",
         "target": "Verkoopdoel",
         "targetValue": "Doelwaarde"
-    },
-    "panel": {
-        "assignee": "Toegewezen persoon"
     }
 }

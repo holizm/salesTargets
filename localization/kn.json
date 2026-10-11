@@ -4,6 +4,7 @@
         "achievement": "ಮಾರಾಟ ಸಾಧನೆ",
         "achievementDate": "ಸಾಧಿಸಿದ ದಿನಾಂಕ",
         "achievements": "ಮಾರಾಟ ಸಾಧನೆಗಳು",
+        "assignee": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ",
         "assignment": "ಗುರಿ ನಿಯೋಜನೆ",
         "assignments": "ಗುರಿ ನಿಯೋಜನೆಗಳು",
         "metric": "ಮಾಪಕ",
@@ -12,8 +13,5 @@
         "snapshots": "ಗುರಿ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್‌ಗಳು",
         "target": "ಮಾರಾಟ ಗುರಿ",
         "targetValue": "ಗುರಿ ಮೌಲ್ಯ"
-    },
-    "panel": {
-        "assignee": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ"
     }
 }

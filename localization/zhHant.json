@@ -4,6 +4,7 @@
         "achievement": "銷售業績",
         "achievementDate": "達成日期",
         "achievements": "銷售業績",
+        "assignee": "負責人",
         "assignment": "目標分配",
         "assignments": "目標分配",
         "metric": "指標",
@@ -12,8 +13,5 @@
         "snapshots": "目標快照",
         "target": "銷售目標",
         "targetValue": "目標值"
-    },
-    "panel": {
-        "assignee": "負責人"
     }
 }

@@ -4,6 +4,7 @@
         "achievement": "Osiągnięcie sprzedażowe",
         "achievementDate": "Data osiągnięcia",
         "achievements": "Osiągnięcia sprzedażowe",
+        "assignee": "Przypisana osoba",
         "assignment": "Przypisanie celu",
         "assignments": "Przypisania celów",
         "metric": "Wskaźnik",
@@ -12,8 +13,5 @@
         "snapshots": "Migawki celu",
         "target": "Cel sprzedażowy",
         "targetValue": "Wartość docelowa"
-    },
-    "panel": {
-        "assignee": "Przypisana osoba"
     }
 }

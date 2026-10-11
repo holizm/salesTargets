@@ -4,6 +4,7 @@
         "achievement": "Sales achievement",
         "achievementDate": "Achievement date",
         "achievements": "Sales achievements",
+        "assignee": "Assignee",
         "assignment": "Target assignment",
         "assignments": "Target assignments",
         "metric": "Metric",
@@ -12,8 +13,5 @@
         "snapshots": "Target snapshots",
         "target": "Sales target",
         "targetValue": "Target value"
-    },
-    "panel": {
-        "assignee": "Assignee"
     }
 }

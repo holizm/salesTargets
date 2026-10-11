@@ -4,6 +4,7 @@
         "achievement": "అమ్మకాల విజయం",
         "achievementDate": "సాధించిన తేదీ",
         "achievements": "అమ్మకాల విజయాలు",
+        "assignee": "కేటాయించిన వ్యక్తి",
         "assignment": "లక్ష్య కేటాయింపు",
         "assignments": "లక్ష్య కేటాయింపులు",
         "metric": "కొలమానం",
@@ -12,8 +13,5 @@
         "snapshots": "లక్ష్య స్నాప్‌షాట్‌లు",
         "target": "అమ్మకాల లక్ష్యం",
         "targetValue": "లక్ష్య విలువ"
-    },
-    "panel": {
-        "assignee": "కేటాయించిన వ్యక్తి"
     }
 }

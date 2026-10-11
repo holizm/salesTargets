@@ -4,6 +4,7 @@
         "achievement": "Nasarar tallace-tallace",
         "achievementDate": "Ranar cimma buri",
         "achievements": "Nasarorin tallace-tallace",
+        "assignee": "Wanda aka ɗora wa aiki",
         "assignment": "Sanya alhakin buri",
         "assignments": "Rarraba alhakin buri",
         "metric": "Ma'auni",
@@ -12,8 +13,5 @@
         "snapshots": "Hotunan manufa",
         "target": "Burin tallace-tallace",
         "targetValue": "Ƙimar buri"
-    },
-    "panel": {
-        "assignee": "Wanda aka ɗora wa aiki"
     }
 }

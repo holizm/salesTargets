@@ -4,6 +4,7 @@
         "achievement": "판매 실적",
         "achievementDate": "달성일",
         "achievements": "판매 실적",
+        "assignee": "담당자",
         "assignment": "목표 배정",
         "assignments": "목표 배정",
         "metric": "측정 지표",
@@ -12,8 +13,5 @@
         "snapshots": "목표 스냅샷",
         "target": "판매 목표",
         "targetValue": "목표값"
-    },
-    "panel": {
-        "assignee": "담당자"
     }
 }

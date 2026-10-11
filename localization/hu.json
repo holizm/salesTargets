@@ -4,6 +4,7 @@
         "achievement": "Értékesítési eredmény",
         "achievementDate": "Elérés dátuma",
         "achievements": "Értékesítési eredmények",
+        "assignee": "Hozzárendelt személy",
         "assignment": "Cél hozzárendelése",
         "assignments": "Célhozzárendelések",
         "metric": "Mérőszám",
@@ -12,8 +13,5 @@
         "snapshots": "Célpillanatképek",
         "target": "Értékesítési cél",
         "targetValue": "Célérték"
-    },
-    "panel": {
-        "assignee": "Hozzárendelt személy"
     }
 }

@@ -4,6 +4,7 @@
         "achievement": "Satış başarısı",
         "achievementDate": "Gerçekleşme tarihi",
         "achievements": "Satış başarıları",
+        "assignee": "Atanan kişi",
         "assignment": "Hedef ataması",
         "assignments": "Hedef atamaları",
         "metric": "Ölçüt",
@@ -12,8 +13,5 @@
         "snapshots": "Hedef anlık görüntüleri",
         "target": "Satış hedefi",
         "targetValue": "Hedef değer"
-    },
-    "panel": {
-        "assignee": "Atanan kişi"
     }
 }

@@ -4,6 +4,7 @@
         "achievement": "Thành tích bán hàng",
         "achievementDate": "Ngày đạt mục tiêu",
         "achievements": "Thành tích bán hàng",
+        "assignee": "Người được giao",
         "assignment": "Phân công mục tiêu",
         "assignments": "Phân công mục tiêu",
         "metric": "Chỉ số",
@@ -12,8 +13,5 @@
         "snapshots": "Các ảnh chụp mục tiêu",
         "target": "Mục tiêu bán hàng",
         "targetValue": "Giá trị mục tiêu"
-    },
-    "panel": {
-        "assignee": "Người được giao"
     }
 }

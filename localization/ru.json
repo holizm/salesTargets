@@ -4,6 +4,7 @@
         "achievement": "Достижение в продажах",
         "achievementDate": "Дата достижения",
         "achievements": "Достижения в продажах",
+        "assignee": "Исполнитель",
         "assignment": "Назначение цели",
         "assignments": "Назначения целей",
         "metric": "Показатель",
@@ -12,8 +13,5 @@
         "snapshots": "Снимки цели",
         "target": "Цель продаж",
         "targetValue": "Целевое значение"
-    },
-    "panel": {
-        "assignee": "Исполнитель"
     }
 }

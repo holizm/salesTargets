@@ -4,6 +4,7 @@
         "achievement": "Realizare în vânzări",
         "achievementDate": "Data realizării",
         "achievements": "Realizări în vânzări",
+        "assignee": "Persoană desemnată",
         "assignment": "Alocare de obiectiv",
         "assignments": "Alocări de obiective",
         "metric": "Indicator",
@@ -12,8 +13,5 @@
         "snapshots": "Instantanee ale obiectivului",
         "target": "Obiectiv de vânzări",
         "targetValue": "Valoare țintă"
-    },
-    "panel": {
-        "assignee": "Persoană desemnată"
     }
 }

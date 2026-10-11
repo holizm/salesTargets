@@ -4,6 +4,7 @@
         "achievement": "விற்பனை சாதனை",
         "achievementDate": "அடைந்த தேதி",
         "achievements": "விற்பனை சாதனைகள்",
+        "assignee": "ஒதுக்கப்பட்டவர்",
         "assignment": "இலக்கு ஒதுக்கீடு",
         "assignments": "இலக்கு ஒதுக்கீடுகள்",
         "metric": "அளவீடு",
@@ -12,8 +13,5 @@
         "snapshots": "இலக்கு நிலைப்படங்கள்",
         "target": "விற்பனை இலக்கு",
         "targetValue": "இலக்கு மதிப்பு"
-    },
-    "panel": {
-        "assignee": "ஒதுக்கப்பட்டவர்"
     }
 }

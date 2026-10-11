@@ -4,6 +4,7 @@
         "achievement": "Pencapaian jualan",
         "achievementDate": "Tarikh pencapaian",
         "achievements": "Pencapaian jualan",
+        "assignee": "Penerima tugas",
         "assignment": "Penugasan sasaran",
         "assignments": "Penugasan sasaran",
         "metric": "Metrik",
@@ -12,8 +13,5 @@
         "snapshots": "Petikan sasaran",
         "target": "Sasaran jualan",
         "targetValue": "Nilai sasaran"
-    },
-    "panel": {
-        "assignee": "Penerima tugas"
     }
 }

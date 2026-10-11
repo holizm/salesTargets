@@ -4,6 +4,7 @@
         "achievement": "Prodejní výsledek",
         "achievementDate": "Datum dosažení",
         "achievements": "Prodejní výsledky",
+        "assignee": "Přiřazená osoba",
         "assignment": "Přiřazení cíle",
         "assignments": "Přiřazení cílů",
         "metric": "Metrika",
@@ -12,8 +13,5 @@
         "snapshots": "Snímky cíle",
         "target": "Prodejní cíl",
         "targetValue": "Cílová hodnota"
-    },
-    "panel": {
-        "assignee": "Přiřazená osoba"
     }
 }

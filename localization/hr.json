@@ -4,6 +4,7 @@
         "achievement": "Prodajno ostvarenje",
         "achievementDate": "Datum ostvarenja",
         "achievements": "Prodajna ostvarenja",
+        "assignee": "Dodijeljena osoba",
         "assignment": "Dodjela cilja",
         "assignments": "Dodjele ciljeva",
         "metric": "Mjerilo",
@@ -12,8 +13,5 @@
         "snapshots": "Snimke cilja",
         "target": "Prodajni cilj",
         "targetValue": "Ciljana vrijednost"
-    },
-    "panel": {
-        "assignee": "Dodijeljena osoba"
     }
 }

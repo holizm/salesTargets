@@ -4,6 +4,7 @@
         "achievement": "ਵਿਕਰੀ ਪ੍ਰਾਪਤੀ",
         "achievementDate": "ਪ੍ਰਾਪਤੀ ਦੀ ਮਿਤੀ",
         "achievements": "ਵਿਕਰੀ ਪ੍ਰਾਪਤੀਆਂ",
+        "assignee": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ",
         "assignment": "ਟੀਚਾ ਨਿਯੁਕਤੀ",
         "assignments": "ਟੀਚਾ ਨਿਯੁਕਤੀਆਂ",
         "metric": "ਮਾਪਦੰਡ",
@@ -12,8 +13,5 @@
         "snapshots": "ਟੀਚਾ ਸਨੈਪਸ਼ਾਟ",
         "target": "ਵਿਕਰੀ ਟੀਚਾ",
         "targetValue": "ਟੀਚਾ ਮੁੱਲ"
-    },
-    "panel": {
-        "assignee": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ"
     }
 }

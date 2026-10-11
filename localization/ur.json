@@ -4,6 +4,7 @@
         "achievement": "فروخت کی کامیابی",
         "achievementDate": "حصول کی تاریخ",
         "achievements": "فروخت کی کامیابیاں",
+        "assignee": "مقرر کردہ شخص",
         "assignment": "ہدف کی تفویض",
         "assignments": "اہداف کی تفویضات",
         "metric": "پیمانہ",
@@ -12,8 +13,5 @@
         "snapshots": "ہدف اسنیپ شاٹس",
         "target": "فروخت کا ہدف",
         "targetValue": "ہدفی قدر"
-    },
-    "panel": {
-        "assignee": "مقرر کردہ شخص"
     }
 }
