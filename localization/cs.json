@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Dosažená hodnota",
-        "achievement": "Prodejní výsledky",
+        "achievement": "Prodejní výsledek",
         "achievementDate": "Datum dosažení",
         "achievements": "Prodejní výsledky",
         "assignment": "Přiřazení cíle",
-        "assignments": "Přiřazení cíle",
+        "assignments": "Přiřazení cílů",
         "metric": "Metrika",
         "salesTargets": "Prodejní cíle",
         "snapshot": "Snímek cíle",

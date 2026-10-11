@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "அடைந்த மதிப்பு",
-        "achievement": "விற்பனை சாதனைகள்",
+        "achievement": "விற்பனை சாதனை",
         "achievementDate": "அடைந்த தேதி",
         "achievements": "விற்பனை சாதனைகள்",
         "assignment": "இலக்கு ஒதுக்கீடு",
-        "assignments": "இலக்கு ஒதுக்கீடு",
+        "assignments": "இலக்கு ஒதுக்கீடுகள்",
         "metric": "அளவீடு",
         "salesTargets": "விற்பனை இலக்குகள்",
         "snapshot": "இலக்கு நிலைப்படம்",

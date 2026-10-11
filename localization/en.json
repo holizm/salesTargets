@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Achieved value",
-        "achievement": "Sales achievements",
+        "achievement": "Sales achievement",
         "achievementDate": "Achievement date",
         "achievements": "Sales achievements",
         "assignment": "Target assignment",
-        "assignments": "Target assignment",
+        "assignments": "Target assignments",
         "metric": "Metric",
         "salesTargets": "Sales targets",
         "snapshot": "Target snapshot",

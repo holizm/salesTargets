@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Достигнутое значение",
-        "achievement": "Достижения в продажах",
+        "achievement": "Достижение в продажах",
         "achievementDate": "Дата достижения",
         "achievements": "Достижения в продажах",
         "assignment": "Назначение цели",
-        "assignments": "Назначение цели",
+        "assignments": "Назначения целей",
         "metric": "Показатель",
         "salesTargets": "Цели продаж",
         "snapshot": "Снимок цели",

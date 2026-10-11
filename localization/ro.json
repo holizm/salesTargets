@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Valoare realizată",
-        "achievement": "Realizări în vânzări",
+        "achievement": "Realizare în vânzări",
         "achievementDate": "Data realizării",
         "achievements": "Realizări în vânzări",
-        "assignment": "Alocarea obiectivului",
-        "assignments": "Alocarea obiectivului",
+        "assignment": "Alocare de obiectiv",
+        "assignments": "Alocări de obiective",
         "metric": "Indicator",
         "salesTargets": "Obiective de vânzări",
         "snapshot": "Instantaneu al obiectivului",

@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "مقدار محقق‌شده",
-        "achievement": "عملکرد فروش",
+        "achievement": "دستاورد فروش",
         "achievementDate": "تاریخ تحقق",
-        "achievements": "عملکرد فروش",
+        "achievements": "دستاوردهای فروش",
         "assignment": "تخصیص هدف",
-        "assignments": "تخصیص هدف",
+        "assignments": "تخصیص‌های هدف",
         "metric": "معیار",
         "salesTargets": "اهداف فروش",
         "snapshot": "تصویر لحظه‌ای هدف",

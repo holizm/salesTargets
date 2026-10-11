@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Остварена вредност",
-        "achievement": "Продајна остварења",
+        "achievement": "Продајно остварење",
         "achievementDate": "Датум остварења",
         "achievements": "Продајна остварења",
         "assignment": "Додела циља",
-        "assignments": "Додела циља",
+        "assignments": "Доделе циљева",
         "metric": "Мерило",
         "salesTargets": "Продајни циљеви",
         "snapshot": "Снимак циља",

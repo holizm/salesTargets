@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Επιτευχθείσα τιμή",
-        "achievement": "Επιτεύγματα πωλήσεων",
+        "achievement": "Επίτευγμα πωλήσεων",
         "achievementDate": "Ημερομηνία επίτευξης",
         "achievements": "Επιτεύγματα πωλήσεων",
         "assignment": "Ανάθεση στόχου",
-        "assignments": "Ανάθεση στόχου",
+        "assignments": "Αναθέσεις στόχων",
         "metric": "Δείκτης",
         "salesTargets": "Στόχοι πωλήσεων",
         "snapshot": "Στιγμιότυπο στόχου",

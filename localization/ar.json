@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "القيمة المحققة",
-        "achievement": "إنجازات المبيعات",
+        "achievement": "إنجاز مبيعات",
         "achievementDate": "تاريخ التحقيق",
         "achievements": "إنجازات المبيعات",
         "assignment": "تعيين الهدف",
-        "assignments": "تعيين الهدف",
+        "assignments": "تعيينات الأهداف",
         "metric": "المقياس",
         "salesTargets": "أهداف المبيعات",
         "snapshot": "لقطة الهدف",

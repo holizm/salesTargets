@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "অর্জিত মান",
-        "achievement": "বিক্রয় অর্জনসমূহ",
+        "achievement": "বিক্রয় অর্জন",
         "achievementDate": "অর্জনের তারিখ",
         "achievements": "বিক্রয় অর্জনসমূহ",
         "assignment": "লক্ষ্য বরাদ্দ",
-        "assignments": "লক্ষ্য বরাদ্দ",
+        "assignments": "লক্ষ্য বরাদ্দসমূহ",
         "metric": "পরিমাপক",
         "salesTargets": "বিক্রয় লক্ষ্যমাত্রা",
         "snapshot": "লক্ষ্যের স্ন্যাপশট",

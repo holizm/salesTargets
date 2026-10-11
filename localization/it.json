@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Valore raggiunto",
-        "achievement": "Risultati di vendita",
+        "achievement": "Risultato di vendita",
         "achievementDate": "Data di raggiungimento",
         "achievements": "Risultati di vendita",
         "assignment": "Assegnazione dell’obiettivo",
-        "assignments": "Assegnazione dell’obiettivo",
+        "assignments": "Assegnazioni degli obiettivi",
         "metric": "Metrica",
         "salesTargets": "Obiettivi di vendita",
         "snapshot": "Istantanea dell’obiettivo",

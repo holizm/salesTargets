@@ -1,12 +1,12 @@
 {
     "common": {
         "achievedValue": "Behaalde waarde",
-        "achievement": "Verkoopprestaties",
+        "achievement": "Verkoopprestatie",
         "achievementDate": "Behaaldatum",
         "achievements": "Verkoopprestaties",
         "assignment": "Doeltoewijzing",
-        "assignments": "Doeltoewijzing",
-        "metric": "Meetwaarde",
+        "assignments": "Doeltoewijzingen",
+        "metric": "Maatstaf",
         "salesTargets": "Verkoopdoelen",
         "snapshot": "Doelmomentopname",
         "snapshots": "Doelmomentopnamen",

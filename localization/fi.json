@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Saavutettu arvo",
-        "achievement": "Myyntisaavutukset",
+        "achievement": "Myyntisaavutus",
         "achievementDate": "Saavuttamispäivä",
         "achievements": "Myyntisaavutukset",
         "assignment": "Tavoitteen määritys",
-        "assignments": "Tavoitteen määritys",
+        "assignments": "Tavoitteiden määritykset",
         "metric": "Mittari",
         "salesTargets": "Myyntitavoitteet",
         "snapshot": "Tavoitteen tilannekuva",

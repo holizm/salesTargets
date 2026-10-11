@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "ערך שהושג",
-        "achievement": "הישגי מכירות",
+        "achievement": "הישג מכירות",
         "achievementDate": "תאריך השגה",
         "achievements": "הישגי מכירות",
         "assignment": "הקצאת יעד",
-        "assignments": "הקצאת יעד",
+        "assignments": "הקצאות יעדים",
         "metric": "מדד",
         "salesTargets": "יעדי מכירות",
         "snapshot": "תמונת מצב של היעד",

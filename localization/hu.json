@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Elért érték",
-        "achievement": "Értékesítési eredmények",
+        "achievement": "Értékesítési eredmény",
         "achievementDate": "Elérés dátuma",
         "achievements": "Értékesítési eredmények",
         "assignment": "Cél hozzárendelése",
-        "assignments": "Cél hozzárendelése",
+        "assignments": "Célhozzárendelések",
         "metric": "Mérőszám",
         "salesTargets": "Értékesítési célok",
         "snapshot": "Célpillanatkép",

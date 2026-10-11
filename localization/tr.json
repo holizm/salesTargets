@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Gerçekleşen değer",
-        "achievement": "Satış başarıları",
+        "achievement": "Satış başarısı",
         "achievementDate": "Gerçekleşme tarihi",
         "achievements": "Satış başarıları",
         "assignment": "Hedef ataması",
-        "assignments": "Hedef ataması",
+        "assignments": "Hedef atamaları",
         "metric": "Ölçüt",
         "salesTargets": "Satış hedefleri",
         "snapshot": "Hedef anlık görüntüsü",

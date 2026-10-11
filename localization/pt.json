@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Valor alcançado",
-        "achievement": "Realizações de vendas",
+        "achievement": "Realização de vendas",
         "achievementDate": "Data de alcance",
         "achievements": "Realizações de vendas",
         "assignment": "Atribuição da meta",
-        "assignments": "Atribuição da meta",
+        "assignments": "Atribuições de metas",
         "metric": "Métrica",
         "salesTargets": "Metas de vendas",
         "snapshot": "Instantâneo da meta",

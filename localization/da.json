@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Opnået værdi",
-        "achievement": "Salgsresultater",
+        "achievement": "Salgsresultat",
         "achievementDate": "Opnåelsesdato",
         "achievements": "Salgsresultater",
         "assignment": "Måltildeling",
-        "assignments": "Måltildeling",
+        "assignments": "Måltildelinger",
         "metric": "Måleparameter",
         "salesTargets": "Salgsmål",
         "snapshot": "Måløjebliksbillede",

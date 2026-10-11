@@ -1,15 +1,15 @@
 {
     "common": {
-        "achievedValue": "የተሳካ ዋጋ",
-        "achievement": "የሽያጭ ስኬቶች",
+        "achievedValue": "የተሳካ መጠን",
+        "achievement": "የሽያጭ ስኬት",
         "achievementDate": "የስኬት ቀን",
         "achievements": "የሽያጭ ስኬቶች",
         "assignment": "የዒላማ ምደባ",
-        "assignments": "የዒላማ ምደባ",
+        "assignments": "የዒላማ ምደባዎች",
         "metric": "መለኪያ",
         "salesTargets": "የሽያጭ ዒላማዎች",
-        "snapshot": "የዒላማ ቅጽበታዊ ገጽታ",
-        "snapshots": "የዒላማ ቅጽበታዊ ገጽታዎች",
+        "snapshot": "የዒላማ ሁኔታ ቅጽበታዊ ምስል",
+        "snapshots": "የዒላማ ሁኔታ ቅጽበታዊ ምስሎች",
         "target": "የሽያጭ ዒላማ",
         "targetValue": "የዒላማ ዋጋ"
     },

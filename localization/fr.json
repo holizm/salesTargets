@@ -1,11 +1,11 @@
 {
     "common": {
         "achievedValue": "Valeur atteinte",
-        "achievement": "Réalisations commerciales",
+        "achievement": "Réalisation commerciale",
         "achievementDate": "Date de réalisation",
         "achievements": "Réalisations commerciales",
         "assignment": "Attribution de l’objectif",
-        "assignments": "Attribution de l’objectif",
+        "assignments": "Attributions d’objectifs",
         "metric": "Indicateur",
         "salesTargets": "Objectifs de vente",
         "snapshot": "Instantané de l’objectif",
